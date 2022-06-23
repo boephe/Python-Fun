@@ -8,3 +8,6 @@ def wave(frequency, amplitude=1, phase=0):
         return amplitude * np.sin(2 * np.pi * frequency * time + phase)
 
     return _wave
+
+
+    This is the new branch I created

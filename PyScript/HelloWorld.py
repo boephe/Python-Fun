@@ -1,3 +1,4 @@
+from ctypes import create_unicode_buffer
 import matplotlib as plt
 import numpy as np
 
@@ -10,4 +11,8 @@ def wave(frequency, amplitude=1, phase=0):
     return _wave
 
 
-    This is the new branch I created
+
+    This is the new branch I create_unicode_buffer
+
+    but this is the code that is in the branch???
+
